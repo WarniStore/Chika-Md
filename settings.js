@@ -22,27 +22,27 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6288220523418','6283157987833','6281573070366'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6283157987833','6288220523418','6281573070366'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6283157987833' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'WarniStore' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'BotWarning☢️' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Warni' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
+global.ig = 'https://www.instagram.com/jb.wb.store?igsh=Ymh3bXJuMnR6bGpx'
+global.mygc = 'https://linktr.ee/groupwbstorejb'
+global.myweb = 'https://linktr.ee/groupwbstorejb'
+global.email = 'WBStore35@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© BotWarning☢️' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Warni' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -52,7 +52,7 @@ global.sessionName = 'session'
 //terserah mau ubah atau nggak, note : tanda ' gausah di hapus!
 global.limitawal = {
 premium: "Infinity",
-free: 15,
+free: 10,
 }
 
 //—————「 Set Image 」—————//
@@ -82,16 +82,16 @@ global.sp = '⭔'
 //—————「 Set Message 」—————//
 //terserah mau ubah apa nggak, note : tanda ' gausah di hapus!
 global.mess = {
-success: '_Done._',
+success: '_Selesai😃._',
 admin: '_Fitur Khusus Admin Group!_',
 botAdmin: '_Bot Harus Menjadi Admin Terlebih Dahulu!_',
 owner: '_Fitur Khusus Owner Bot_',
-group: '_Fitur Digunakan Hanya Untuk Group!_',
-private: '_Fitur Digunakan Hanya Untuk Private Chat!_',
+group: '_Fitur Digunakan Hanya Untuk Di Group!_',
+private: '_Fitur Untuk Menggunakan Private Chat!_',
 bot: '_Fitur Khusus Pengguna Nomor Bot_',
-wait: '_Sedang Di Proses..._',
-error: '_Fitur Sedang Error!_',
-endLimit: '_Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12_',
+wait: '_Sabar Lagi Di Proses..._',
+error: '_Fitur Lagi Error Nih!_',
+endLimit: '_Limit Harian Anda Udah Habis, Limit Direset Setiap Jam 12, Mohon Menunggu Dengan Sabar_',
 }
 
 //—————「 Batas Akhir 」—————//
